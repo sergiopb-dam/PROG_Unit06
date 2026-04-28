@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 public class CalculadoraNumReales {
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) {
 		try {
 			double suma = 0;
 			int contador = 0;
